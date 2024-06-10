@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Введение}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Соискатель}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Мотивация работы}{6}{0}{1}
+\beamer@sectionintoc {2}{Теория}{13}{0}{2}
+\beamer@sectionintoc {3}{План научных работ}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Работы, готовые к публикации}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Работы в исследовании}{24}{0}{3}
+\beamer@sectionintoc {4}{Заключение}{31}{0}{4}

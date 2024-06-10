@@ -1,0 +1,46 @@
+\documentclass[
+	11pt
+]{beamer}
+
+\graphicspath{{img/}} % Specifies where to look for included images (trailing slash required)
+
+\usetheme{Boadilla}
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule for better rules in tables
+\usepackage{amsmath}
+\usepackage[T1,TS1,T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+
+
+\title[Анализ в сфере образования]{Изучение группового обучения в общем образовании} 
+\author[Машалов Никита]{Машалов Никита} 
+
+\begin{document}
+\DeclareFontShape{OT1}{cmss}{b}{n}{<->ssub * cmss/bx/n}{} 
+
+\begin{frame}
+    \begin{figure}
+        \includegraphics[width=0.2\linewidth]{assets/MIPT.png}
+    \end{figure}
+    \titlepage % Output the title slide, automatically created using the text entered in the PRESENTATION INFORMATION block above
+\end{frame}
+
+\begin{frame}
+    \frametitle{План презентации} % Slide title, remove this command for no title
+    \tableofcontents
+\end{frame}
+
+
+\input{sections/intro}
+\input{sections/goals}
+\input{sections/group}
+% \input{sections/generalization}
+\input{sections/plan/main}
+\include{sections/conclusion}
+
+\end{document}
+
+
+
+

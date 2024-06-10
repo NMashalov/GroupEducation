@@ -1,0 +1,27 @@
+
+
+
+@article{dowhypaper,
+  title={DoWhy: An End-to-End Library for Causal Inference},
+  author={Sharma, Amit and Kiciman, Emre},
+  journal={arXiv preprint arXiv:2011.04216},
+  year={2020}
+}
+
+@article{ortiz2021visual,
+  title={A visual introduction to gaussian belief propagation},
+  author={Ortiz, Joseph and Evans, Talfan and Davison, Andrew J},
+  journal={arXiv preprint arXiv:2107.02308},
+  year={2021}
+}
+
+@inproceedings{lafferty2001conditional,
+  title={Conditional random fields: Probabilistic models for segmenting and labeling sequence data},
+  author={Lafferty, John and McCallum, Andrew and Pereira, Fernando and others},
+  booktitle={Icml},
+  volume={1},
+  number={2},
+  pages={3},
+  year={2001},
+  organization={Williamstown, MA}
+}

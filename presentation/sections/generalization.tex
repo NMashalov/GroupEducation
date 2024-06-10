@@ -1,0 +1,23 @@
+\subsection{Обобщение}
+
+\begin{frame}
+    \frametitle{Обобщение}
+    \begin{figure}
+        \includegraphics[width=0.8\linewidth]{assets/message_passing.excalidraw.png}
+    \end{figure}
+    $$
+        \begin{aligned}
+            &m_{f_j \rightarrow x_i} = \sum_{X_j \backslash x_i} f_j(X_j) \prod_{k\in N(j) \ i} m_{x_k \rightarrow f_j}\\
+            &m_{x_i \rightarrow f_j} = \prod_{s \in N(i) \backslash j} m_{f_s \rightarrow x_i}
+        \end{aligned}
+    $$
+\end{frame}
+
+
+
+
+
+
+
+
+
