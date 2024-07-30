@@ -1,0 +1,598 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{coleman1974youth}{article}{}
+      \name{author}{1}{}{%
+        {{hash=75bd153ea6e371d26904dafbd68d45c0}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{75bd153ea6e371d26904dafbd68d45c0}
+      \strng{fullhash}{75bd153ea6e371d26904dafbd68d45c0}
+      \strng{bibnamehash}{75bd153ea6e371d26904dafbd68d45c0}
+      \strng{authorbibnamehash}{75bd153ea6e371d26904dafbd68d45c0}
+      \strng{authornamehash}{75bd153ea6e371d26904dafbd68d45c0}
+      \strng{authorfullhash}{75bd153ea6e371d26904dafbd68d45c0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NASSP Bulletin}
+      \field{number}{385}
+      \field{title}{Youth: Transition to adulthood}
+      \field{volume}{58}
+      \field{year}{1974}
+      \field{pages}{4\bibrangedash 11}
+      \range{pages}{8}
+    \endentry
+    \entry{newcomb1953approach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=92a5cb482188e2d2c1595867c53f7bbf}{%
+           family={Newcomb},
+           familyi={N\bibinitperiod},
+           given={Theodore\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \strng{fullhash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \strng{bibnamehash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \strng{authorbibnamehash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \strng{authornamehash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \strng{authorfullhash}{92a5cb482188e2d2c1595867c53f7bbf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological review}
+      \field{number}{6}
+      \field{title}{An approach to the study of communicative acts.}
+      \field{volume}{60}
+      \field{year}{1953}
+      \field{pages}{393}
+      \range{pages}{1}
+    \endentry
+    \entry{mazen2000transforming}{article}{}
+      \name{author}{3}{}{%
+        {{hash=76efb1cf919fe3bd8c32abeb80a6856f}{%
+           family={Mazen},
+           familyi={M\bibinitperiod},
+           given={Abdelmagid\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a47e1f52ccff758e802f0c057bc83927}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={M\bibnamedelima Colleen},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a7ad160e95652c93a6f9acc32dccf3c6}{%
+           family={Sergenian},
+           familyi={S\bibinitperiod},
+           given={Gail\bibnamedelima K},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \strng{fullhash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \strng{bibnamehash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \strng{authorbibnamehash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \strng{authornamehash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \strng{authorfullhash}{b3fa4a191d6d84f540e3a08e5bdb96e8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Learning}
+      \field{number}{2}
+      \field{title}{Transforming the class into a learning organization}
+      \field{volume}{31}
+      \field{year}{2000}
+      \field{pages}{147\bibrangedash 161}
+      \range{pages}{15}
+    \endentry
+    \entry{vigotski2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9eccfca7b8975fb569b09816a660eaef}{%
+           family={Выготский},
+           familyi={В\bibinitperiod},
+           given={Лев\bibnamedelima Семенович},
+           giveni={Л\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Directmedia}%
+      }
+      \strng{namehash}{9eccfca7b8975fb569b09816a660eaef}
+      \strng{fullhash}{9eccfca7b8975fb569b09816a660eaef}
+      \strng{bibnamehash}{9eccfca7b8975fb569b09816a660eaef}
+      \strng{authorbibnamehash}{9eccfca7b8975fb569b09816a660eaef}
+      \strng{authornamehash}{9eccfca7b8975fb569b09816a660eaef}
+      \strng{authorfullhash}{9eccfca7b8975fb569b09816a660eaef}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Мышление и речь}
+      \field{year}{2014}
+    \endentry
+    \entry{rau1990humanizing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=394d144b602eb213da81ce142b2e882a}{%
+           family={Rau},
+           familyi={R\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a6c97dd251a0a62f581e71cf9127c18f}{%
+           family={Heyl},
+           familyi={H\bibinitperiod},
+           given={Barbara\bibnamedelima Sherman},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \strng{fullhash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \strng{bibnamehash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \strng{authorbibnamehash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \strng{authornamehash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \strng{authorfullhash}{645a6da1ae60ac677ff1c50d3aa26896}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Teaching Sociology}
+      \field{title}{Humanizing the college classroom: Collaborative learning and social organization among students}
+      \field{year}{1990}
+      \field{pages}{141\bibrangedash 155}
+      \range{pages}{15}
+    \endentry
+    \entry{flowers2015friendship}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b168e3fafe64d0aec64bb209325371e9}{%
+           family={Flowers},
+           familyi={F\bibinitperiod},
+           given={Simeon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{b168e3fafe64d0aec64bb209325371e9}
+      \strng{fullhash}{b168e3fafe64d0aec64bb209325371e9}
+      \strng{bibnamehash}{b168e3fafe64d0aec64bb209325371e9}
+      \strng{authorbibnamehash}{b168e3fafe64d0aec64bb209325371e9}
+      \strng{authornamehash}{b168e3fafe64d0aec64bb209325371e9}
+      \strng{authorfullhash}{b168e3fafe64d0aec64bb209325371e9}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jalt Call Journal}
+      \field{number}{3}
+      \field{title}{Friendship and reciprocity as motivators in CSCL.}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{191\bibrangedash 212}
+      \range{pages}{22}
+    \endentry
+    \entry{dillenbourg1999collaborative}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6b396c0bb09d01755d1a2a8198ab785e}{%
+           family={Dillenbourg},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \strng{fullhash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \strng{bibnamehash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \strng{authorbibnamehash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \strng{authornamehash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \strng{authorfullhash}{6b396c0bb09d01755d1a2a8198ab785e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Collaborative learning: Cognitive and computational approaches. advances in learning and instruction series.}
+      \field{year}{1999}
+    \endentry
+    \entry{traub1997classical}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c7d9e2654b11b9783616ecf9885f20b}{%
+           family={Traub},
+           familyi={T\bibinitperiod},
+           given={Ross\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NATIONAL COUNCIL ON MEASUREMENT IN EDUCATION}%
+      }
+      \strng{namehash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \strng{fullhash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \strng{bibnamehash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \strng{authorbibnamehash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \strng{authornamehash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \strng{authorfullhash}{8c7d9e2654b11b9783616ecf9885f20b}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Measurement}
+      \field{title}{Classical test theory in historical perspective}
+      \field{volume}{16}
+      \field{year}{1997}
+      \field{pages}{8\bibrangedash 13}
+      \range{pages}{6}
+    \endentry
+    \entry{lord2012applications}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61b721d394c909c77b2aca336c48bff4}{%
+           family={Lord},
+           familyi={L\bibinitperiod},
+           given={Frederic\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{fullhash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{bibnamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authorbibnamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authornamehash}{61b721d394c909c77b2aca336c48bff4}
+      \strng{authorfullhash}{61b721d394c909c77b2aca336c48bff4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Applications of item response theory to practical testing problems}
+      \field{year}{2012}
+    \endentry
+    \entry{strijbos2010assessment}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d91a5f3ed138cea3d3a07fe38f69483e}{%
+           family={Strijbos},
+           familyi={S\bibinitperiod},
+           given={Jan-Willem},
+           giveni={J\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \strng{fullhash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \strng{bibnamehash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \strng{authorbibnamehash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \strng{authornamehash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \strng{authorfullhash}{d91a5f3ed138cea3d3a07fe38f69483e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on learning technologies}
+      \field{number}{1}
+      \field{title}{Assessment of (computer-supported) collaborative learning}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{59\bibrangedash 73}
+      \range{pages}{15}
+    \endentry
+    \entry{engelbart1984collaboration}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=eb881df5beaa3c673d3ed982d25a84d3}{%
+           family={Engelbart},
+           familyi={E\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \strng{fullhash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \strng{bibnamehash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \strng{authorbibnamehash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \strng{authornamehash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \strng{authorfullhash}{eb881df5beaa3c673d3ed982d25a84d3}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1984 AFIPS Office Automation Conference, http://dougengelbart. org/pubs/seminars/sembinder1992nov/P. pdf}
+      \field{title}{Collaboration support provisions in AUGMENT}
+      \field{year}{1984}
+    \endentry
+    \entry{engelbart1992toward}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=0cf51d2f74b07324c2c720fbeb905dea}{%
+           family={Engelbart},
+           familyi={E\bibinitperiod},
+           given={Douglas\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \strng{fullhash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \strng{bibnamehash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \strng{authorbibnamehash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \strng{authornamehash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \strng{authorfullhash}{0cf51d2f74b07324c2c720fbeb905dea}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the GroupWare}
+      \field{title}{Toward high-performance organizations: A strategic role for groupware}
+      \field{volume}{92}
+      \field{year}{1992}
+      \field{pages}{3\bibrangedash 5}
+      \range{pages}{3}
+    \endentry
+    \entry{lu2010scaffolding}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ef60e949eabf1e7f4882245876c89cae}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Jingyan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c15093d6697fd305713a9ea2c1f6524d}{%
+           family={Lajoie},
+           familyi={L\bibinitperiod},
+           given={Susanne\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0453b40d8e53492b20d7603a1e05ee24}{%
+           family={Wiseman},
+           familyi={W\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{21ab0266562cf7c7596603b393413ee1}
+      \strng{fullhash}{21ab0266562cf7c7596603b393413ee1}
+      \strng{bibnamehash}{21ab0266562cf7c7596603b393413ee1}
+      \strng{authorbibnamehash}{21ab0266562cf7c7596603b393413ee1}
+      \strng{authornamehash}{21ab0266562cf7c7596603b393413ee1}
+      \strng{authorfullhash}{21ab0266562cf7c7596603b393413ee1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer-Supported Collaborative Learning}
+      \field{title}{Scaffolding problem-based learning with CSCL tools}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{283\bibrangedash 298}
+      \range{pages}{16}
+    \endentry
+    \entry{stahl2009practice}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3086705e96c01925526b6910d795e7d6}{%
+           family={Stahl},
+           familyi={S\bibinitperiod},
+           given={Gerry},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cf60465e50442df3135c7fbc6b28ad33}{%
+           family={Hesse},
+           familyi={H\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3fdf34456a912bb799e19ca5d483f63b}
+      \strng{fullhash}{3fdf34456a912bb799e19ca5d483f63b}
+      \strng{bibnamehash}{3fdf34456a912bb799e19ca5d483f63b}
+      \strng{authorbibnamehash}{3fdf34456a912bb799e19ca5d483f63b}
+      \strng{authornamehash}{3fdf34456a912bb799e19ca5d483f63b}
+      \strng{authorfullhash}{3fdf34456a912bb799e19ca5d483f63b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer-Supported Collaborative Learning}
+      \field{title}{Practice perspectives in CSCL}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{109\bibrangedash 114}
+      \range{pages}{6}
+    \endentry
+    \entry{roth1988shapley}{book}{}
+      \name{author}{1}{}{%
+        {{hash=320ab47af0997a7a69af46760b320783}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Alvin\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{320ab47af0997a7a69af46760b320783}
+      \strng{fullhash}{320ab47af0997a7a69af46760b320783}
+      \strng{bibnamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authorbibnamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authornamehash}{320ab47af0997a7a69af46760b320783}
+      \strng{authorfullhash}{320ab47af0997a7a69af46760b320783}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Shapley value: essays in honor of Lloyd S. Shapley}
+      \field{year}{1988}
+    \endentry
+    \entry{arrow1962economic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5d45272a5c29864ab7c14d6d5567315c}{%
+           family={Arrow},
+           familyi={A\bibinitperiod},
+           given={Kenneth\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{5d45272a5c29864ab7c14d6d5567315c}
+      \strng{fullhash}{5d45272a5c29864ab7c14d6d5567315c}
+      \strng{bibnamehash}{5d45272a5c29864ab7c14d6d5567315c}
+      \strng{authorbibnamehash}{5d45272a5c29864ab7c14d6d5567315c}
+      \strng{authornamehash}{5d45272a5c29864ab7c14d6d5567315c}
+      \strng{authorfullhash}{5d45272a5c29864ab7c14d6d5567315c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The review of economic studies}
+      \field{number}{3}
+      \field{title}{The economic implications of learning by doing}
+      \field{volume}{29}
+      \field{year}{1962}
+      \field{pages}{155\bibrangedash 173}
+      \range{pages}{19}
+    \endentry
+    \entry{romer1986increasing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9fef23c81fd49d969a17f8db3046f51f}{%
+           family={Romer},
+           familyi={R\bibinitperiod},
+           given={Paul\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{9fef23c81fd49d969a17f8db3046f51f}
+      \strng{fullhash}{9fef23c81fd49d969a17f8db3046f51f}
+      \strng{bibnamehash}{9fef23c81fd49d969a17f8db3046f51f}
+      \strng{authorbibnamehash}{9fef23c81fd49d969a17f8db3046f51f}
+      \strng{authornamehash}{9fef23c81fd49d969a17f8db3046f51f}
+      \strng{authorfullhash}{9fef23c81fd49d969a17f8db3046f51f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of political economy}
+      \field{number}{5}
+      \field{title}{Increasing returns and long-run growth}
+      \field{volume}{94}
+      \field{year}{1986}
+      \field{pages}{1002\bibrangedash 1037}
+      \range{pages}{36}
+    \endentry
+    \entry{holmstrom1982moral}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4ec3c67b648805ee3da894057f3f18b6}{%
+           family={Holmstrom},
+           familyi={H\bibinitperiod},
+           given={Bengt},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{4ec3c67b648805ee3da894057f3f18b6}
+      \strng{fullhash}{4ec3c67b648805ee3da894057f3f18b6}
+      \strng{bibnamehash}{4ec3c67b648805ee3da894057f3f18b6}
+      \strng{authorbibnamehash}{4ec3c67b648805ee3da894057f3f18b6}
+      \strng{authornamehash}{4ec3c67b648805ee3da894057f3f18b6}
+      \strng{authorfullhash}{4ec3c67b648805ee3da894057f3f18b6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Bell journal of economics}
+      \field{title}{Moral hazard in teams}
+      \field{year}{1982}
+      \field{pages}{324\bibrangedash 340}
+      \range{pages}{17}
+    \endentry
+    \entry{spence1978job}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=aae176b15837266834493c7397512929}{%
+           family={Spence},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aae176b15837266834493c7397512929}
+      \strng{fullhash}{aae176b15837266834493c7397512929}
+      \strng{bibnamehash}{aae176b15837266834493c7397512929}
+      \strng{authorbibnamehash}{aae176b15837266834493c7397512929}
+      \strng{authornamehash}{aae176b15837266834493c7397512929}
+      \strng{authorfullhash}{aae176b15837266834493c7397512929}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Uncertainty in economics}
+      \field{title}{Job market signaling}
+      \field{year}{1978}
+      \field{pages}{281\bibrangedash 306}
+      \range{pages}{26}
+    \endentry
+    \entry{mathai1992quadratic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=948456f3056d5c7617de416c75015f3a}{%
+           family={Mathai},
+           familyi={M\bibinitperiod},
+           given={Arakaparampil\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3adb7b24021c4216356c1e98342c9f38}{%
+           family={Provost},
+           familyi={P\bibinitperiod},
+           given={Serge\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \strng{fullhash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \strng{bibnamehash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \strng{authorbibnamehash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \strng{authornamehash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \strng{authorfullhash}{0fbfec5bd7ac3ded762a88cccaf174cd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Quadratic forms in random variables: theory and applications}
+      \field{year}{1992}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

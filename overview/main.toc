@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{}%
+\contentsline {section}{\numberline {2}Теория игр}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Вектор Шепли}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Рассмотрение в приближение среднего поля}{3}{}%
+\contentsline {section}{\numberline {3}Экономический подход к описанию команд}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Вклад в совместную деятельность}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Проблемы отбора игроков}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Теория контроля}{4}{}%
+\contentsline {section}{\numberline {4}Развитие постановки}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Постановка}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Модель}{5}{}%

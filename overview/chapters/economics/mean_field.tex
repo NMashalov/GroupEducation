@@ -1,0 +1,71 @@
+
+Использование приближение среднего поля к задачам моделирования
+распределения \cite{toscani2016kinetic}.
+
+
+Применение физических методов в социальных и экономических задачах 
+распостраненная практика исследований: \begin{itemize}
+    \item экономическое моделирование \cite{carmona2020applications}
+\end{itemize}
+
+Приближение среднего актуально для постановок, в котором 
+агенты слабо взаимодействуюит
+
+
+Простейшей постановкой является проблема поселяющего (\textit{англ.} dean problem).
+Группе студентов с попарными предпочтениями $g_{ij}$ необходимо распределить в группы, достигнув
+максимума функции социального блага:
+\begin{equation}
+    C(\sigma) = \sum_{i<j} \g_{ij} \sigma_i \sigma_j
+\end{equation}
+В простейшем случае предполагается, что элементы вектора 
+$\mathbf{\sigma}=(\simga_1,\dots,\sigma_n)$ распределения задаются 
+в виде бинарной величины, что позволяет переписать уравнение как:
+\begin{equation}
+    C(\sigma) = \sum_{i \sim j } g_{ij} - \sum_{i \cancel{\sim} j } g_{ij}  
+\end{equation}
+
+
+В простейшем случае предполагается, что предпочтения студентов
+распределены нормально $g_{ij} \sim \mathcal{N}(0,\sigma^2)$.
+
+Для заданной постановки получены асимптотические постановки 
+при $N \righarrow \infty$: 
+\begin{equation}
+    с N^{3/2} \le \mathrm{E} M_N \le C N^{3/2}
+\end{equation}
+Григорио Париси, первооткрывателем нарушения симметрии реплик, в 1979 
+была получена точная оценка \cite{parisi1979infinite}:
+\begin{equation}
+    \lim_{N \rightarrow \infty} \frac{1}{N^{3/2}} \max_\sigma \sum_{i<j} g_{ij} \sigma_i \sigma_j = 0.76-[
+\end{equation}
+
+
+Вывод уравнения Гибрата \cite{toscani2016kinetic}.
+Закон Гибрата известный экономический постулат, заключающий
+что скорость роста фирмы пропорционально ее размеру \cite{france2001inegalites}:
+$$
+    x(\tau +1) = x(\tau) + \eta(\tau) x(\tau),
+$$
+
+\begin{equation}
+    \frac{d}{d \tau} \int_{\mathrm{R_+}} \phi(x) f(x,\tau )= \lambda \mathrm{E}_\tau \int_{R_+} (\phi(x^*) - \phi(x)) f(x,\tau) dx \>
+\end{equation}
+где $\phi$ - обобщенная функция, $\lambda$ - задает частоту взаимодействия
+
+Перейдем к фурье-образу функции плотности:
+\begin{equation}
+    \hat{f}(\xi,\tau) = \int_{\mathrm{R}^_+} f(x,\tau) e^{-i \xi x} dx
+\end{equation}
+
+Итоговое уравнение запишется как:
+\begin{equation}
+    \frac{\partial}{\partial \tau} \hat{f}(\xi,\tau) = \lambda (\mathrm{E}_\tau f(1+\eta,
+    tau) - f(\xi,\tau))
+\end{equation}
+
+Для обобщенных функций вида $\phi(x)=x^n$ получаем, что 
+моменты распределения запишутся как:
+\begin{equation}\
+    \frac{\partial}{\partial \tau} m_n(\tau) = \lambda \mathrm{E}_\tau (1+eta(\tau))^n -1) m_n(\tau)
+\end{equation}

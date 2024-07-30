@@ -1,0 +1,18 @@
+Такие функции позволяю оценить по индивидуальным качествам учащихся их совместный вклад в дело. Примерами супераддитивных функций являются \begin{itemize}
+    \item min-sum $\sum_{i} min([\vec{x}]_i,s^*)$, гдe $s^*$ - порог отсечки
+    \item max-mean $N \cdot \bar{x} + \max_i(\vec{x} - \bar{x})$
+    \item квадратичная форма $\vec{x}^T A \vec{x}$
+\end{itemize}
+
+
+Для квадратичной формы $\varepsilon^T \Lambda \varepsilon$ с
+вектором распределенным нормально $\mathbf{\varepsilon} \sim \mathcal{N}(\mathbf{\mu},\mathbf{\Sigma})$ выполняются
+
+\begin{equation}
+    \begin{aligned}
+        & \mathbb{E}[\varepsilon^T \Lambda \varepsilon] = \operatorname{tr}[\Lambda \Sigma] + \mu^T \Lambda \mu \\ 
+        & \operatorname{\varepsilon^T \Lambda \varepsilon} = 2  \operatorname{tr}[\Lambda \Sigma] 
+    \end{aligned}
+\end{equation}
+
+Доказательство утвереждения приведено в \cite{mathai1992quadratic}.
